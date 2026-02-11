@@ -34,7 +34,7 @@ html, body {
  font-size: 24px;
  font-weight: 400;
  text-transform: uppercase;
- color: white;
+ color: black;
  padding: 0;
  margin: 0;
 }
@@ -44,7 +44,7 @@ html, body {
  font-size: 70px;
  letter-spacing: 10px;
  text-align: center;
- color: white;
+ color: black;
  font-weight: 400;
  text-transform: uppercase;
  z-index: 10;
