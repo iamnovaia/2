@@ -34,7 +34,7 @@ html, body {
  font-size: 24px;
  font-weight: 400;
  text-transform: uppercase;
- color: black;
+ color: white;
  padding: 0;
  margin: 0;
 }
@@ -44,7 +44,7 @@ html, body {
  font-size: 70px;
  letter-spacing: 10px;
  text-align: center;
- color: black;
+ color: white;
  font-weight: 400;
  text-transform: uppercase;
  z-index: 10;
@@ -58,7 +58,7 @@ html, body {
  font-weight: 400;
  letter-spacing: 8px;
  text-transform: uppercase;
- color: black;
+ color: white;
 }
 #flat p {
  font-family: 'Source Sans Pro', sans-serif;
